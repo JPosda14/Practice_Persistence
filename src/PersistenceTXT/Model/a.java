@@ -1,4 +1,4 @@
-package PersistenciaTXT.Persistencia.Model;
+package PersistenceTXT.Model;
 
 public class a {
 private String name;
